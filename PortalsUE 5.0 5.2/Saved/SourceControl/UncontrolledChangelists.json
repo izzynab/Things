@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/Portals_FX/Maps/Portals_Mat.umap",
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/Portals_FX/Standard_Portal/M_Portal_Circle.uasset",
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/Portals_FX/Standard_Portal/M_Portal_Circle_NS.uasset",
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/Portals_FX/Standard_Portal/M_Portal_Circle_NS_Edge.uasset",
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/Portals_FX/Standard_Portal/M_Portal_diamond.uasset",
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/Portals_FX/Standard_Portal/M_Portal_Square.uasset",
+				"D:/Repos/Things/PortalsUE 5.0 5.2/Content/Portals_FX/Standard_Portal/M_Portal_Trial.uasset"
+			]
+		}
+	]
+}
